@@ -1,0 +1,15 @@
+├── config/
+│   ├── __init__.py
+│   └── settings.py       # 配置文件
+├── data/                 # 数据集目录（需要用户自行下载）
+├── models/
+│   ├── __init__.py
+│   ├── base_model.py     # 基线模型
+│   └── llm_integration.py # 大模型集成
+├── utils/
+│   ├── __init__.py
+│   ├── data_loader.py    # 数据加载器
+│   └── evaluation.py     # 评估指标
+├── requirements.txt
+├── train.py              # 训练脚本
+└── README.md             # 操作说明 
