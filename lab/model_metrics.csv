@@ -1,0 +1,4 @@
+Model,TN,FN,TP,FP,Correct (%),Not available (%),Error (%)
+deepseek-chat,41,9,171,84,42.40,39.00,18.60
+gpt-3.5-turbo,80,2,101,309,36.20,1.60,62.20
+gpt-4,51,14,227,87,55.60,24.20,20.20
